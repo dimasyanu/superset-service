@@ -1,0 +1,8 @@
+/.vs
+bin
+obj
+Logs
+SupersetFolder
+/SupersetService/appsettings.*
+
+!/SupersetService/appsettings.example.json
